@@ -1,12 +1,9 @@
 
 ## Construido con 🛠️
 
-
 * HTML, CSS, Javascript
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Andrew Alfaro** - *Desarrollador JavaScript* 
 * **Platzi** - *Academia de aprendizaje* - [Proyecto de Platzi]
